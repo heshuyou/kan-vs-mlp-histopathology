@@ -1,0 +1,23 @@
+{
+  "threshold": 0.995,
+  "n_images": 23720,
+  "n_pairs": 3364,
+  "n_components": 22059,
+  "n_multi": 1537,
+  "images_in_groups": 3198,
+  "frac_in_groups": 0.13482293423271502,
+  "max_cluster": 6,
+  "size_hist": [
+    0,
+    20522,
+    1439,
+    80,
+    13,
+    2,
+    3
+  ],
+  "n_train": 18972,
+  "n_val": 4748,
+  "groups_spanning_split": 0,
+  "median_ncc": 0.9999996423721313
+}

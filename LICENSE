@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 Shuyou He, Dongqing Zhang, Ning Jia, Shuang Wen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+The split lists (train_clean.txt, val_clean.txt, train_crc.txt, val_crc.txt,
+train_group2.txt, val_group2.txt, train_list.txt, val_list.txt), the MD5 inventory
+(md5_lc25000.csv), the figure data (figures/fig1_delta_data.csv) and the result
+files (KAN/*.json, KAN/*_preds.npz) are released under CC BY 4.0.
+
+The image datasets LC25000 and CRC-VAL-HE-7K are third-party data, are not
+redistributed here, and remain under their original licences.

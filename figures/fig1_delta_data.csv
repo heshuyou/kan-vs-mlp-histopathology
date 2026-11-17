@@ -1,0 +1,9 @@
+basis,setting,delta_vs_narrow_MLP_pp,delta_vs_matched_MLP_pp,p_vs_matched_MLP
+Chebyshev,"LC25000, ResNet50",0.749,-0.094,0.042
+Chebyshev,"LC25000, EfficientNet-B0",0.209,-0.085,0.00069
+Chebyshev,"CRC, 9-class",1.319,-0.446,3e-05
+Chebyshev,"Cross-domain, colon",-0.740,-0.720,0.31
+B-spline,"LC25000, ResNet50",1.179,0.357,5.6e-10
+B-spline,"LC25000, EfficientNet-B0",0.285,-0.065,0.002
+B-spline,"CRC, 9-class",1.922,0.097,0.055
+B-spline,"Cross-domain, colon",-0.346,-0.279,0.64

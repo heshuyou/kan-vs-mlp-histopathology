@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite this repository; see the accompanying paper for the scientific report."
+title: "Parameter-aligned audit of Kolmogorov-Arnold and MLP classification heads for histopathological images"
+version: 1.1.0
+date-released: 2026-11-17
+repository-code: "https://github.com/heshuyou/kan-vs-mlp-histopathology"
+license: MIT
+authors:
+  - family-names: He
+    given-names: Shuyou
+    affiliation: "School of Applied Technology, Dalian Neusoft University of Information, Dalian 116023, China"
+  - family-names: Zhang
+    given-names: Dongqing
+    affiliation: "School of Applied Technology, Dalian Neusoft University of Information, Dalian 116023, China"
+  - family-names: Jia
+    given-names: Ning
+    affiliation: "School of Applied Technology, Dalian Neusoft University of Information, Dalian 116023, China"
+  - family-names: Wen
+    given-names: Shuang
+    affiliation: "Department of Pathology, Dalian Friendship Hospital, Dalian 116001, China"
+keywords:
+  - Kolmogorov-Arnold network
+  - multilayer perceptron
+  - histopathological image classification
+  - parameter alignment
+  - domain generalization
+  - basis function
